@@ -1,3 +1,7 @@
+The code is a part of the Project of B503 course in Indiana Univeristy Bloomington.
+Parts of the code were provide by the professor.
+
+
 This tar archive contains ten C files, a Makefile, and this Readme file.
 
 The Makefile has targets for creating main32, main16, and main4, and
